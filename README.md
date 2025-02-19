@@ -6,4 +6,4 @@
 
 "0_RS2025_more_in_common_similarity_network1.zip" is the network, that is, the similarity matrix, without such a truncation.
 
-"0_RS2025_more_in_common_two_mode_actors1.dat" is the actor attribues file
+"0_RS2025_more_in_common_two_mode_actors1.dat" is the actor attributes file
