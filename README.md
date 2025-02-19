@@ -5,3 +5,5 @@
 "0_RS2025_more_in_common_similarity_network_TRUNC100.zip" is the network, that is, the similarity matrix, where similarity scores > 100 have been truncated to 100.
 
 "0_RS2025_more_in_common_similarity_network1.zip" is the network, that is, the similarity matrix, without such a truncation.
+
+"0_RS2025_more_in_common_two_mode_actors1.dat" is the actor attribues file
